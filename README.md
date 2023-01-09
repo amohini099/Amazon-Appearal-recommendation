@@ -1,2 +1,5 @@
 # Amazon-Appearal-recommendation
 keras, tensorflow 
+1. Personalized product recommendations are the alternative way of navigating through the online shop. More people find the products they need. Even if they didn’t think of them. Build a recommendation engine which suggests similar products to the given product in any e-commerce websites ex. Amazon.com, myntra.com etc.Building recommendation system for products on an e-commerce website Note: Some parts of the code is taken from what is available in the workshop notebooks.
+2. Customers who are prompted with personalized product recommendations drive 24% of the orders and 26% of the revenues. This signifies how much significance product recommendation has on order volume and overall sales revenue. A product recommender system is a system with the goal of predicting and compiling a list of items that the customer is likely to purchase.
+3. this project typically used Visual features based product similarity using tensorflow, keras and NLP.
